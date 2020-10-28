@@ -98,7 +98,7 @@ h1 {
 }
 #image1 {
     border-radius: 50%;
-    height: 30vh;
+    height: 40vh;
     display: inline-block;
     
 }
@@ -128,7 +128,7 @@ header {
     
 }
 .intro_sec p {
-    margin-top: 4%;
+    margin-top:3%;
 }
 
 .section-two {
