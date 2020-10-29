@@ -61,7 +61,7 @@ html{
 .navbar a{
     border-radius: 15px;
     padding: 1%;
-    margin: 0 5%;
+    margin: 0 6%;
     display: inline-block;
     width: 9%;
     font-family: 'Roboto Mono', monospace;
@@ -118,8 +118,11 @@ header {
     float: right;
     
 }
+.intro1 {
+    margin-top: 3%;
+}
 .intro_sec p {
-    margin-top:3%;
+    margin:3%;
 }
 
 .section-two {
@@ -132,7 +135,11 @@ header {
     
 }
 .paragraph2 {
-    margin: 0 2%;
+    margin: 2%;
+    font-size: 2rem;
+}
+.paragraph3 {
+    margin: 2%;
     font-size: 2rem;
 }
 
