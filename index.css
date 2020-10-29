@@ -13,7 +13,7 @@ menu, nav, output, ruby, section, summary,
 time, mark, audio, video {  
 margin: 0;  
 padding: 0;  
-border: 1px solid grey;
+/* border: 1px solid grey; */
 max-width: 100%;    
 font-size: 100%;  
 font: inherit;  
@@ -96,11 +96,11 @@ h1 {
     
 }
 #image2 {
-    margin-top: 20%;
+    margin-top: 5%;
     height: 22vh;
 }
 #image3 {
-    margin-top: 10%;
+    margin-top: 15%;
     height: 22vh;
 }
 
